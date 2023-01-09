@@ -1,1 +1,3 @@
 This holds the snapshot of the file system at a given moment of time.
+
+Name node shared the edit logs to a shared location and SNN merges the fs image and edit logs to make updated fsimage.
