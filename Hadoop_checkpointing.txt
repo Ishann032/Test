@@ -1,0 +1,1 @@
+Merging of fsimage with edit logs to get updated fs image is called as checkpointing.
