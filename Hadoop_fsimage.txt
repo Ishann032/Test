@@ -1,0 +1,1 @@
+This holds the snapshot of the file system at a given moment of time.
