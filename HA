@@ -1,0 +1,1 @@
+High availablity of name node in hadoop is acheived by replication factor 
