@@ -1,0 +1,2 @@
+
+This used to store all the transaction/changes after the snapshot is taken by fsimage.
